@@ -2,5 +2,3 @@ flask
 psycopg2
 gunicorn
 flask_mail
-Mail
-Message
